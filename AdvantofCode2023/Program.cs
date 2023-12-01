@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace AdvantofCode2022
+namespace AdvantofCode2023
 {
     static class Program
     {

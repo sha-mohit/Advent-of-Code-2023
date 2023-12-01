@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace AdvantofCode2022
+namespace AdvantofCode2023
 {
     public class Puzzel_1
     {

@@ -1,4 +1,4 @@
-﻿namespace AdvantofCode2022
+﻿namespace AdvantofCode2023
 {
     partial class AOC
     {
